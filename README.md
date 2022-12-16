@@ -3,9 +3,11 @@
 #Here I present the files for the Module 2 VBA Challenge
 # Files included:
 
-* [Screenshot of 2020 data sheet](https://github.com/adampaganini/VBA-Script-Assignment-Stock-Analysis/blob/main/VBA-Challenge-2020-Data-Screenshot.png) 
+* [Screenshot of 2018 data sheet](https://github.com/adampaganini/VBA-Script-Assignment-Stock-Analysis/blob/main/VBA-Challenge-2018-Data-Screenshot.png)
 
-* [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
+* [Screenshot of 2019 data sheet](https://github.com/adampaganini/VBA-Script-Assignment-Stock-Analysis/blob/main/VBA-Challenge-2020-Data-Screenshot.png) 
+
+* [Screenshot of 2020 data sheet]([Resources/Multiple_year_stock_data.xlsx](https://github.com/adampaganini/VBA-Script-Assignment-Stock-Analysis/blob/main/VBA-Challenge-2020-Data-Screenshot.png)
 
 ### Stock Market Analyst
 
