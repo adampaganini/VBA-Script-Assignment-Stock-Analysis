@@ -1,17 +1,15 @@
 # VBA Homework: The VBA of Wall Street
 
-#Here I present the files for the Module 2 VBA Challenge
+## Here I present the files for the Module 2 VBA Challenge
 # Files included:
 
 * [Screenshot of 2018 data sheet](https://github.com/adampaganini/VBA-Script-Assignment-Stock-Analysis/blob/main/VBA-Challenge-2018-Data-Screenshot.png)
 
 * [Screenshot of 2019 data sheet](https://github.com/adampaganini/VBA-Script-Assignment-Stock-Analysis/blob/main/VBA-Challenge-2020-Data-Screenshot.png) 
 
-* [Screenshot of 2020 data sheet]([Resources/Multiple_year_stock_data.xlsx](https://github.com/adampaganini/VBA-Script-Assignment-Stock-Analysis/blob/main/VBA-Challenge-2020-Data-Screenshot.png)
+* [Screenshot of 2020 data sheet](Resources/Multiple_year_stock_data.xlsx](https://github.com/adampaganini/VBA-Script-Assignment-Stock-Analysis/blob/main/VBA-Challenge-2020-Data-Screenshot.png)
 
-### Stock Market Analyst
-
-![alt=""](Images/stockmarket.jpg)
+* [VBA Script for analyzing the Multiple_year_stock_data.xlsx file](https://github.com/adampaganini/VBA-Script-Assignment-Stock-Analysis/blob/main/Sub_ticker_looper-AWP.vbs)
 
 ## Assignment instructions
 
