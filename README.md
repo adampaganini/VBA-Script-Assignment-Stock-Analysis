@@ -1,7 +1,6 @@
-# VBA Homework: The VBA of Wall Street
+# UCB Boot Camp Module 2 VBA Challenge Assignment
 
-## Here I present the files for the Module 2 VBA Challenge
-# Files included:
+## In order to successfully complete the task of automating an analysis of multi-year stockmarket data, you will find the following files loaded to this repository:
 
 * [Screenshot of 2018 data sheet](https://github.com/adampaganini/VBA-Script-Assignment-Stock-Analysis/blob/main/VBA-Challenge-2018-Data-Screenshot.png)
 
