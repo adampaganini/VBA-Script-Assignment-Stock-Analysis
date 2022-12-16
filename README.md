@@ -1,9 +1,9 @@
 # VBA Homework: The VBA of Wall Street
 
 #Here I present the files for the Module 2 VBA Challenge
-### Files
+# Files included:
 
-* [Test Data](Resources/alphabetical_testing.xlsx) - Use this while developing your scripts.
+* [Screenshot of 2020 data sheet](https://github.com/adampaganini/VBA-Script-Assignment-Stock-Analysis/blob/main/VBA-Challenge-2020-Data-Screenshot.png) 
 
 * [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
 
