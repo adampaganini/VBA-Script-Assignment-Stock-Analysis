@@ -2,13 +2,14 @@
 
 ## In order to successfully complete the task of automating an analysis of multi-year stockmarket data, you will find the following files loaded to this repository:
 
+* [VBA Script for analyzing the Multiple_year_stock_data.xlsx file](https://github.com/adampaganini/VBA-Script-Assignment-Stock-Analysis/blob/main/Sub_ticker_looper-AWP.vbs)
+
 * [Screenshot of 2018 data sheet](https://github.com/adampaganini/VBA-Script-Assignment-Stock-Analysis/blob/main/VBA-Challenge-2018-Data-Screenshot.png)
 
 * [Screenshot of 2019 data sheet](https://github.com/adampaganini/VBA-Script-Assignment-Stock-Analysis/blob/main/VBA-Challenge-2020-Data-Screenshot.png) 
 
 * [Screenshot of 2020 data sheet](https://github.com/adampaganini/VBA-Script-Assignment-Stock-Analysis/blob/main/VBA-Challenge-2020-Data-Screenshot.png)
 
-* [VBA Script for analyzing the Multiple_year_stock_data.xlsx file](https://github.com/adampaganini/VBA-Script-Assignment-Stock-Analysis/blob/main/Sub_ticker_looper-AWP.vbs)
 
 ## Assignment instructions
 
